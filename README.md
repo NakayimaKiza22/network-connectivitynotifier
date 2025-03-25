@@ -1,1 +1,1 @@
-# network-connectivitynotifier
+# Android Project SetUp
